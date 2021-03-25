@@ -2,7 +2,7 @@
 **temurchichua/temurchichua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hello from the Planet Earth earth 🌍
+# Hello from the Planet Earth 🌍
 <p align='center'>
   
  <a href="https://www.linkedin.com/in/temur-chichua-477ba0200/">
