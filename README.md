@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello from the Planet Earth earth 🌍
-
-## I use this GitHub profile to publish some of my work
-- 💻 Currently I'm exploring a marvelous universe of Computer Science 
-- 🐍 I'm on my path to become Python Expert 
-- 🤖 I'm learning Data Science, Machine Learning and Artificial Inteligence 
-- 🎓 Main occupation is Programming: I'm learning, practicing and teaching [Unilab](http://unilab.iliauni.edu.ge/), digital lab of Ilia State University (https://iliauni.edu.ge/en/) 
-- 📚 Current Main Occupation: Creating NLP toolset for the Georgian language.
-- 💡 Electrical Engineering Rookie 
-
 <p align='center'>
   
  <a href="https://www.linkedin.com/in/temur-chichua-477ba0200/">
@@ -37,5 +28,41 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-### OS I'm using
-![]
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=temurchichua&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
+## I use this GitHub profile to publish some of my work
+- 🔭 Currently exploring the marvelous world of Computer Science 
+- 🐍 On my path to becoming the Python Master 
+- 💻 I'm learning Data Science, Machine Learning and Artificial Intelligence 
+- 🤖 Developing Web-Services for the only Georgian Chatbot platform - [AnimaChatbotics](https://www.animachatbotics.com/)
+- 🎓 Learning, practicing and teaching at [Unilab](http://unilab.iliauni.edu.ge/), the digital lab of Ilia State University (https://iliauni.edu.ge/en/) 
+- 📚 Current Main Occupation: Creating NLP toolset for the Georgian language.
+- 💡 Electrical Engineering Rookie 
+
+
+### I write for
+![https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white]
+![https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white]
+![https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white]
+![https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black]
+
+
+
+<p align='center'>
+  Things I use for day-to-day stuff
+</p>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
