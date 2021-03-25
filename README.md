@@ -1,19 +1,7 @@
-### Hi there 👋
-
 <!--
 **temurchichua/temurchichua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 # Hello from the Planet Earth earth 🌍
 <p align='center'>
   
@@ -29,7 +17,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=temurchichua&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temurchichua&layout=compact&theme=synthwave)" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=temurchichua&show_icons=true&count_private=true&theme=synthwave" width="350"></a>
 </p>
 
 
