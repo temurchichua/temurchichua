@@ -26,7 +26,7 @@
 - 🐍 On my path to becoming the Python Master 
 - 💻 I'm learning Data Science, Machine Learning and Artificial Intelligence 
 - 🤖 Developing Web-Services for the only Georgian Chatbot platform - [AnimaChatbotics](https://www.animachatbotics.com/)
-- 🎓 Learning, practicing and teaching at [Unilab](http://unilab.iliauni.edu.ge/), the digital lab of Ilia State University (https://iliauni.edu.ge/en/) 
+- 🎓 Learning, practicing and teaching at [Unilab](http://unilab.iliauni.edu.ge/), the digital lab of [Ilia State University](https://iliauni.edu.ge/en/) 
 - 📚 Current Main Occupation: Creating NLP toolset for the Georgian language.
 - 💡 Electrical Engineering Rookie 
 
