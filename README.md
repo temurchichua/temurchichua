@@ -17,7 +17,6 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temurchichua&layout=compact&theme=synthwave)" width="350"></a>
   <img src="https://github-readme-stats.vercel.app/api?username=temurchichua&show_icons=true&count_private=true&theme=synthwave" width="350"></a>
 </p>
 
@@ -42,7 +41,8 @@
 
 
 <p align='center'>
-  some of the things I use for day-to-day tasks
+  some of the things I use for day-to-day tasks <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temurchichua&layout=compact&theme=synthwave)" width="350"></a>
 </p>
 
 <p align='center'>
