@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/temur-chichua-477ba0200/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="temur.chichua@iliauni.edu.ge">
+  <a href="contact@temurchichua.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
     <a href="https://play.google.com/store/apps/developer?id=CyberGang">
@@ -22,16 +22,12 @@
 
 
 ## I use this GitHub profile to publish some of my work
-- 🔭 Currently exploring the marvelous world of Computer Science 
+- 🔭 Exploring the marvelous world of Computer Science 
 - 🐍 On my path to becoming the Python Master 
-- 💻 I'm learning Data Science, Machine Learning and Artificial Intelligence 
-- 🤖 Developing Web-Services for the only Georgian Chatbot platform - [AnimaChatbotics](https://www.animachatbotics.com/)
-- 🎓 Learning, practicing and teaching at [Unilab](http://unilab.iliauni.edu.ge/), the digital lab of [Ilia State University](https://iliauni.edu.ge/en/) 
-- 📚 Current Main Occupation: Creating NLP toolset for the Georgian language.
-- 💡 Electrical Engineering Rookie 
+- 💻 I'm learning Data Science, Machine Learning and Artificial Intelligence
 
 
-### I write for
+### I've developed for
 <p align='center'>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
