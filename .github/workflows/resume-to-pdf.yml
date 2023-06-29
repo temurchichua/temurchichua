@@ -7,23 +7,17 @@ on:
 
 jobs:
   build:
+    name: Build PDF
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Install Pandoc
-        run: sudo apt-get update && sudo apt-get install pandoc -y
-
-      - name: Convert Markdown to PDF
-        run: pandoc resume.md -o resume.pdf
-
-      - name: Move PDF to artifacts
-        run: mv resume.pdf ${{ github.workspace }}/artifacts/resume.pdf
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v2
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          name: Resume PDF
-          path: ${{ github.workspace }}/artifacts/resume.pdf
+          input_dir: .
+          output_dir: pdfs
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: docs
+          path: pdfs
