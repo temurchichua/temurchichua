@@ -20,7 +20,7 @@ Highly skilled and passionate software engineer with a proven track record of de
 - **Web Technologies**: HTML5, CSS3, RESTful APIs, GraphQL
 - **Database Systems**: SQL, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud Platforms**: AWS (Amazon Web Services), GCP (Google Cloud Platform), DigitalOcean
-- **DevOps/Tools**: Docker, Kubernetes, Git, CI/CD, Cloud Build, Github Actions
+- **DevOps/Tools**: Docker, Kubernetes, Git, CI/CD, Cloud Build, GitHub Actions
 
 ## Work Experience
 
@@ -30,7 +30,7 @@ Highly skilled and passionate software engineer with a proven track record of de
 Jan 2022 - Sep 2022
 
 - Researched, designed, implemented, managed, tested, and evaluated software programs.
-- Worked on developing extensions for Mailchimp to integrate with Mixpanel and Twitch.
+- Worked on developing extensions for Mailchimp (Intuit) to integrate with Mixpanel and Twitch.
 
 > *Software Engineer*
 Jun 2022 - Present
@@ -44,14 +44,14 @@ Jun 2022 - Present
 Dec 2019 - Sep 2021
 
 - Developed integration between the chatbot engine and Facebook Messenger using Flask API.
-- Successfully delivered a service that connected Facebook pages to the chatbots.
+- Successfully delivered a service that connected Facebook pages to chatbots.
 - Promoted to Software Engineer, responsible for engineering tech solutions and leading a small development team.
 
-> **Co-Founder/CTO**
+> *Co-Founder/CTO*
 Sep 2021 - Feb 2023
 
 - Played a pivotal role in securing the second wave of funding for the startup.
-- Promoted to Lead Software Engineer and offered a position as a co-founder of the company.
+- Promoted to Lead Software Engineer and offered a position as the company's co-founder.
 
 **Ministry of Education, Science, Culture and Sport of Georgia** - Tbilisi, Georgia
 
@@ -61,7 +61,7 @@ Dec 2019 - Jan 2021
 - Collaborated with a team of software engineers and narrative designers to develop educational tools for high school students.
 - Worked on integrating and developing chatbots for educational purposes.
 
-> Development Team Lead*
+> *Development Team Lead*
 Sep 2022 - Jan 2023
 
 - Led a team of Back End developers in creating various educational tools and applications for students.
@@ -88,17 +88,17 @@ Sep 2022 - Jan 2023
 **Machine Learning**
 
 1. Georgian Speech To Text - Wav2Vec2-Large-XLSR-53-Georgian
-   - Fine-tuned facebook/wav2vec2-large-xlsr-53 on Georgian using the Common Voice dataset.
+   - Fine-tuned Facebook/wav2vec2-large-xlsr-53 on Georgian using the Common Voice dataset.
    - Repository: [Georgian Speech To Text](https://huggingface.co/Temur/wav2vec2-Georgian-Daytona)
 
-2. BERT based Georgian Language Model - Qartvelian Roberta
+2. BERT-based Georgian Language Model - Qartvelian Roberta
    - Developed a BERT-based language model for Georgian text processing.
    - Repository: [Qartvelian Roberta](https://huggingface.co/Temur/qartvelian-roberta-base)
 
 **Scraping**
 
 1. QartNewSurfer - Scrapy-based web crawlers for Georgian Media Pages
-   - Created web crawlers using Scrapy framework to extract data from Georgian media pages.
+   - Created web crawlers using the Scrapy framework to extract data from Georgian media pages.
    - Repository: [QartNewSurfer](https://github.com/temurchichua/QartNewSurfer)
 
 2. Common Crawler - CC scraper for crawling large amounts of Georgian Texts
@@ -115,6 +115,6 @@ Sep 2022 - Jan 2023
    - Contributed to the development of QartNLP, an open-source tool for Georgian language processing.
    - Website: [QartNLP](https://qartnlp.iliauni.edu.ge/)
 
-2. SypteR - a simple front-end testing tool-set for Python.
+2. SypteR - a simple front-end testing toolset for Python.
 
    - Repository: [SypteR](https://github.com/temurchichua/sypter)
