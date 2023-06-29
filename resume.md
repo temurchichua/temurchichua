@@ -90,24 +90,29 @@ Sep 2022 - Jan 2023
 1. Georgian Speech To Text - Wav2Vec2-Large-XLSR-53-Georgian
    - Fine-tuned Facebook/wav2vec2-large-xlsr-53 on Georgian using the Common Voice dataset.
    - Repository: [Georgian Speech To Text](https://huggingface.co/Temur/wav2vec2-Georgian-Daytona)
+   - URL: https://huggingface.co/Temur/wav2vec2-Georgian-Daytona
 
 2. BERT-based Georgian Language Model - Qartvelian Roberta
    - Developed a BERT-based language model for Georgian text processing.
    - Repository: [Qartvelian Roberta](https://huggingface.co/Temur/qartvelian-roberta-base)
+   - URL: https://huggingface.co/Temur/qartvelian-roberta-base
 
 **Scraping**
 
 1. QartNewSurfer - Scrapy-based web crawlers for Georgian Media Pages
    - Created web crawlers using the Scrapy framework to extract data from Georgian media pages.
    - Repository: [QartNewSurfer](https://github.com/temurchichua/QartNewSurfer)
+   - URL: https://github.com/temurchichua/QartNewSurfer
 
 2. Common Crawler - CC scraper for crawling large amounts of Georgian Texts
    - Developed a scraper using Common Crawler to retrieve Georgian text data.
    - Repository: [CommonCrawler](https://github.com/temurchichua/CommonCrawler)
+   - URL: https://github.com/temurchichua/CommonCrawler
 
 3. MagicDump - Wikipedia dump file to pre-processed Text
    - Created a tool to preprocess Wikipedia dump files into usable text format.
    - Repository: [MagicDump](https://github.com/temurchichua/MagicDumpWikipedia)
+   - URL: https://github.com/temurchichua/MagicDumpWikipedia
 
 **Language and Web Tools**
 
@@ -118,3 +123,4 @@ Sep 2022 - Jan 2023
 2. SypteR - a simple front-end testing toolset for Python.
 
    - Repository: [SypteR](https://github.com/temurchichua/sypter)
+   - URL: https://github.com/temurchichua/sypter
