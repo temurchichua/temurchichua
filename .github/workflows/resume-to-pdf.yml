@@ -21,6 +21,9 @@ jobs:
       - name: Convert Markdown to PDF
         run: pandoc resume.md -o resume.pdf
 
+      - name: Create artifacts directory
+        run: mkdir ${{ github.workspace }}/artifacts
+
       - name: Move PDF to artifacts
         run: mv resume.pdf ${{ github.workspace }}/artifacts/resume.pdf
 
