@@ -16,7 +16,7 @@ jobs:
       - name: Install Pandoc and LaTeX dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base
+          sudo apt-get install -y pandoc texlive-latex-base texlive-xetex texlive-fonts-recommended texlive-latex-extra
 
       - name: Convert Markdown to PDF
         run: pandoc resume.md -o resume.pdf
