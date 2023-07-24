@@ -91,18 +91,23 @@ Sep 2022 - Jan 2023
 ### TV, Radio, and Podcast Appearances:
 
 **The ART of the Artificial Intelligence** - _Georgian Public Broadcaster [in Georgian] | November 4, 2022_
+
 - URL: [https://www.youtube.com/watch?v=hZwuqyS7wD4](https://www.youtube.com/watch?v=hZwuqyS7wD4)
 
 **What is Chat-GPT** - _Daily Show at Mtavari Channel [in Georgian] | June 28, 2023_
+
 - URL: [https://www.facebook.com/shenishuadgemtavaritv/videos/1384490505445891/](https://www.facebook.com/shenishuadgemtavaritv/videos/1384490505445891/)
 
 **Artificial vs Human Intelligence** - _"Interesting Podcast" by Marketer.ge [in Georgian] | February 5, 2023_
+
 - URL: [https://soundcloud.com/marketerge/chatgpt-ai-vs-hi](https://soundcloud.com/marketerge/chatgpt-ai-vs-hi)
 
 **Dangers and Risks of the AI** - _Morning Show at Formula [in Georgian] | May 9, 2022_
+
 - URL: [https://www.facebook.com/watch/?v=762934918624695](https://www.facebook.com/watch/?v=762934918624695)
 
 **AI in our everyday life** - _Rustavi 2 [in Georgian] | February 16, 2022_
+
 - URL: [https://www.youtube.com/watch?v=gF7EE42OjSk](https://www.youtube.com/watch?v=gF7EE42OjSk)
 
 
@@ -143,10 +148,12 @@ Sep 2022 - Jan 2023
 ## Other Projects
 
 **Machine Learning**
+
 1. Oraculum 0.1 ("Talking Avatars") 2008 - an innovative Georgian AI endeavor featuring three conversational avatars with unique personalities, designed to revive the ancient art of oracles through AI technology and Georgian literature phrases.
 I've designed the Software Architecture of the project
 Trained and Fine-Tuned various AI models used to identify the features of the visitor and generate unique content. 
 http://gtarchive.georgiatoday.ge/news/12382/Georgian-AI-And-Literature
+
 2. Georgian Speech To Text - Wav2Vec2-Large-XLSR-53-Georgian
    - Fine-tuned Facebook/wav2vec2-large-xlsr-53 on Georgian using the Common Voice dataset.
    - Repository: [Georgian Speech To Text](https://huggingface.co/Temur/wav2vec2-Georgian-Daytona)
