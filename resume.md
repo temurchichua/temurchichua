@@ -22,6 +22,9 @@ In addition to being a highly skilled and passionate software engineer with a pr
 - **Web Technologies**: HTML5, CSS3, RESTful APIs, GraphQL
 - **Database Systems**: SQL, MySQL, PostgreSQL, MongoDB, Redis
 - **Machine Learning**: TensorFlow, scikit-learn, Keras, PyTorch
+- **Natural Language Processing**: HuggingFace, spaCy, NLTK
+- **Data Processing**: Pandas, NumPy, Matplotlib, Seaborn
+- **Computer Vision**: OpenCV, Pillow
 - **Cloud Platforms**: AWS (Amazon Web Services), GCP (Google Cloud Platform), DigitalOcean
 - **DevOps/Tools**: Docker, Kubernetes, Git, CI/CD, Cloud Build, GitHub Actions
 
@@ -126,7 +129,11 @@ Sep 2022 - Jan 2023
   - Emphasized the importance of sharing resources and knowledge for collective improvement.
 
 ### As Trainer: 
-
+- TechCamp organized by Clevertone and TechPark - Zugdidi, Georgia | 11 August 2023
+  - Conducted Series of lectures with High-School kids to raise awareness about AI and its applications.
+  - Held a workshop on basics of data processing and Machine Learning.
+  - Trained various Machine Learning models with the students.
+  
 - AI Week in TechnoPark - Telavi, Georgia | March 2023
   - Organized 5 days of lectures, workshops, and activities to raise awareness about AI.
   - Taught students the basics of Machine Learning and how AI works responsibly.
