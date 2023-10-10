@@ -10,25 +10,35 @@
 - **Linkedin**: https://www.linkedin.com/in/temur-chichua/
 
 ## Summary
-
-Highly skilled and passionate software engineer with a proven track record of delivering impactful solutions. Proficient in Python, C/C++, and JavaScript/TypeScript, with expertise in frameworks such as Flask, FastAPI, React, and Node.js. Experienced in backend development and cloud computing on AWS, GCP, and DigitalOcean. Strong foundation in machine learning and natural language processing. Demonstrated success in leading development teams and collaborating cross-functionally.
-
-In addition to being a highly skilled and passionate software engineer with a proven track record of delivering impactful solutions, Temur's exceptional achievements during his high school/student years set him apart as an accomplished innovator. A four-time winner of the national innovators fair Leonardo Da Vinci, finalist of the EU Contest for Young Scientists (EUCYS), and two-time winner and finalist of Intel ISEF, Temur's dedication to innovation and excellence is evident. His accomplishments also include being a finalist and winner of the Millennium Challenge, being recognized as '30 under 30' by Forbes in 2018, and being alumni of the Alliance of Democracies. Currently, Temur's expertise is sought after in building software solutions for Fortune 500 companies, further showcasing his commitment to making a significant impact in the tech industry.
-
-## Tech Skills
-
-- **Programming Languages**: Python, C/C++, JavaScript/TypeScript
-- **Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Scrapy
-- **Web Technologies**: HTML5, CSS3, RESTful APIs, GraphQL
-- **Database Systems**: SQL, MySQL, PostgreSQL, MongoDB, Redis
-- **Machine Learning**: TensorFlow, scikit-learn, Keras, PyTorch
-- **Natural Language Processing**: HuggingFace, spaCy, NLTK
-- **Data Processing**: Pandas, NumPy, Matplotlib, Seaborn
-- **Computer Vision**: OpenCV, Pillow
-- **Cloud Platforms**: AWS (Amazon Web Services), GCP (Google Cloud Platform), DigitalOcean
-- **DevOps/Tools**: Docker, Kubernetes, Git, CI/CD, Cloud Build, GitHub Actions
+2nd-time tech startup founder. Has been recognized for his scientific achievements by Forbes' 30 under 30. Developed an open-source NLP toolset for the Georgian language and co-founded the only Georgian chatbot platform. Awarded by SpaceX and received special acknowledgments for democratizing Al. Has developed & maintained software for Mailchimp (Intuit) and other Fortune 500 companies. Has contributed to Georgian startup ecosystem development through initiating and implementing startup and ICT education and community building programs
 
 ## Work Experience
+
+**Fundbox** - Tbilisi, Georgia, USA (Remote)
+
+> *Software Engineering Team Lead* | 
+Sep 2023 - Present
+
+Leading a team of software engineers to develop, optimize, and maintain software services and solutions for the company's clients. Collaborating with cross-functional teams to ensure the timely delivery of projects and products.
+
+**Mtavari Channel, Morning Show** - Tbilisi Georgia, 2023-Present
+> *Host of the TV rubric "Guide to the Modern Technologies"* | 
+Sep 2023 Present
+
+The show explains modern technology to the public to raise knowledge and awareness about local and global scientific and technological trends.
+
+**ARtttify** - Tbilisi Georgia, 2023-Present
+> *Co-founder & CTO* | 
+Sep 2022 - Present
+
+AI-powered Augmented Reality marketing platform - helps SMBs generate leads, and activate and retain customers with minimal effort and resources.
+
+**Startup Georgia** - Tbilisi Georgia, 2023-Present
+> *Consultant* |
+Nov 2022 - Present
+
+Non-governmental, non-commercial startup ecosystem building organization. Helps Georgian startups to get founder education, global visibility, and funding. Works closely with different startup ecosystem stakeholders, both local and international actors. Collaborates with government, private sector, top international accelerators, investment funds, and international organizations to implement best practices. 
+
 
 **ThirstySprout** - Seattle, USA (Remote)
 
@@ -39,7 +49,7 @@ Jan 2022 - Sep 2022
 - Worked on developing extensions for Mailchimp (Intuit) to integrate with Mixpanel and Twitch.
 
 > *Software Engineer*
-Jun 2022 - Present
+Jun 2022 - September 2023
 
 - Develop and maintain full-stack software solutions.
 - Engineered a scalable asynchronous system for data synchronization between Mailchimp and Mixpanel, handling millions of events per iteration.
@@ -116,30 +126,49 @@ Sep 2022 - Jan 2023
 
 ### Public Speeches:
 
+-  GMAP Conference- Gwangju, South Korea | October 2023
+    - Invited as a Guest Speaker to the international forum under the theme of The Age of Artificial Intelligence hosted by Gwangju Media Art Platform (G.MAP) and sponsored by UNESCO.
+    - Delivered a Keynote Address on "Navigating Through the Risks and Rewards of Artificial Intelligence" 
+    - Discussed AI's possibilities, responsibilities, dangers, and ethics.
+    - Engaged in panel discussions and shared insights on the latest trends and challenges in AI.
+
+
 - Talking about AI - Spotlight Tech Tbilisi | May 2023
   - Co-speaker: Luka Chkhetiani
   - Discussed AI's possibilities, responsibilities, dangers, and ethics.
+  
 
 - Georgian Natural Language Processing - DataFest Tbilisi
   - Presented the NLP toolset and its applications for various research and analysis.
+  
 
 - Using Natural Language Processing against Fake News and Spread of Misinformation - Democracy Tech Entrepreneur Fellowship, June 2021 - Copenhagen, Denmark
+
 
 - Share with one to share with many - TEDx Tbilisi, July 2015
   - Emphasized the importance of sharing resources and knowledge for collective improvement.
 
 ### As Trainer: 
+- TechCamp organized by Clevertone and TechPark - Bakuriani, Georgia | 16 September 2023
+  - Conducted a Series of lectures with high school kids to raise awareness about AI and its applications.
+  - Held a workshop on the basics of data processing and Machine Learning.
+  - Trained various Machine Learning models with the students.
+
+
 - TechCamp organized by Clevertone and TechPark - Zugdidi, Georgia | 11 August 2023
   - Conducted Series of lectures with High-School kids to raise awareness about AI and its applications.
   - Held a workshop on basics of data processing and Machine Learning.
   - Trained various Machine Learning models with the students.
   
+
 - AI Week in TechnoPark - Telavi, Georgia | March 2023
   - Organized 5 days of lectures, workshops, and activities to raise awareness about AI.
   - Taught students the basics of Machine Learning and how AI works responsibly.
 
+
 - Automate Boring Stuff with Python - Google Developers Group | December 2022
   - Conducted a lecture and workshop on data processing and automation using Google services.
+
 
 - Open Lecture about Python - Ilia State University cyber-laboratory "Unilab" | November 2021
   - Introduced the audience to programming basics and facilitated a workshop on efficient Python coding.
@@ -148,6 +177,7 @@ Sep 2022 - Jan 2023
 
 - TechStars Startup Weekend Georgia organized by Startup Georgia | December 2022
   - Provided mentorship during the startup event to foster entrepreneurial skills.
+
 
 - Worked with High School teams to participate in and win local and international science fairs | 2015-2016
 
@@ -199,4 +229,23 @@ http://gtarchive.georgiatoday.ge/news/12382/Georgian-AI-And-Literature
    - Repository: [SypteR](https://github.com/temurchichua/sypter)
    - URL: https://github.com/temurchichua/sypter
 
+## Tech Skills
+
+### Resume
+Highly skilled and passionate software engineer with a proven track record of delivering impactful solutions. Proficient in Python, C/C++, and JavaScript/TypeScript, with expertise in frameworks such as Flask, FastAPI, React, and Node.js. Experienced in backend development and cloud computing on AWS, GCP, and DigitalOcean. Strong foundation in machine learning and natural language processing. Demonstrated success in leading development teams and collaborating cross-functionally.
+
+In addition to being a highly skilled and passionate software engineer with a proven track record of delivering impactful solutions, Temur's exceptional achievements during his high school/student years set him apart as an accomplished innovator. A four-time winner of the national innovators fair Leonardo Da Vinci, finalist of the EU Contest for Young Scientists (EUCYS), and two-time winner and finalist of Intel ISEF, Temur's dedication to innovation and excellence is evident. His accomplishments also include being a finalist and winner of the Millennium Challenge, being recognized as '30 under 30' by Forbes in 2018, and being alumni of the Alliance of Democracies. Currently, Temur's expertise is sought after in building software solutions for Fortune 500 companies, further showcasing his commitment to making a significant impact in the tech industry.
+
+### Skills
+
+- **Programming Languages**: Python, C/C++, JavaScript/TypeScript
+- **Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Scrapy
+- **Web Technologies**: HTML5, CSS3, RESTful APIs, GraphQL
+- **Database Systems**: SQL, MySQL, PostgreSQL, MongoDB, Redis
+- **Machine Learning**: TensorFlow, scikit-learn, Keras, PyTorch
+- **Natural Language Processing**: HuggingFace, spaCy, NLTK
+- **Data Processing**: Pandas, NumPy, Matplotlib, Seaborn
+- **Computer Vision**: OpenCV, Pillow
+- **Cloud Platforms**: AWS (Amazon Web Services), GCP (Google Cloud Platform), DigitalOcean
+- **DevOps/Tools**: Docker, Kubernetes, Git, CI/CD, Cloud Build, GitHub Actions
 
